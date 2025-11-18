@@ -99,6 +99,7 @@ body{
   display: flex;
   flex-direction: column;
   gap: 14px;
+  padding: 30px 40px;
   
 }
 
